@@ -152,7 +152,6 @@
     <color name="gifmagazine_twcolor_off">#00baf1</color>
     <color name="gifmagazine_twcolor_on">#00aae1</color>
     <color name="gifmagazine_whitecolor_on">#efefef</color>
-    <color name="meshiDoco_main_button_color">#f8b667</color>
-    <color name="meshiDoco_main_button_color_pushed">#e8a657</color>
-    <color name="meshiDoco_header_color">#16a5ed</color>
+    <color name="meshidoco_maincolor">#b41d24</color>
+    <color name="meshidoco_maincolor_pushed">#a40d14</color>
 </resources>

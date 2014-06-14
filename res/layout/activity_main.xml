@@ -1,6 +1,4 @@
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/activity_main"
-    android:name="jp.growui.meshidoco.Fragment.MainFragment" />
-
+    android:name="jp.growui.meshidoco.Fragment.FragmentMain" />

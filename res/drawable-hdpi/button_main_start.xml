@@ -5,9 +5,9 @@
         <!-- ボタンの形状 -->
         <shape android:shape="rectangle">
             <!-- ボタンの色 -->
-            <solid android:color="@color/meshiDoco_main_button_color"/>
+            <solid android:color="@color/meshidoco_maincolor"/>
             <!-- ボタンの枠線 -->
-            <stroke android:width="1dp" android:color="@color/meshiDoco_main_button_color"/>
+            <stroke android:width="1dp" android:color="@color/meshidoco_maincolor"/>
             <!-- ボタンの角の半径 -->
             <corners android:radius="8dp"/>
         </shape>
@@ -15,8 +15,8 @@
     <!-- ボタンが押された時 -->
     <item android:state_pressed="true">
         <shape android:shape="rectangle">
-            <solid android:color="@color/meshiDoco_main_button_color_pushed"/>
-            <stroke android:width="1dp" android:color="@color/meshiDoco_main_button_color_pushed"/>
+            <solid android:color="@color/meshidoco_maincolor_pushed"/>
+            <stroke android:width="1dp" android:color="@color/meshidoco_maincolor_pushed"/>
             <corners android:radius="8dp"/>
         </shape>
     </item>
